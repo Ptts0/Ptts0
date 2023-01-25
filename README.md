@@ -7,7 +7,7 @@
 </p>
 
 <p align="center"> 
-  Visit count 👁️<br>
+  <b>Visit count<b><br>
   <img alt="visit count" src="https://profile-counter.glitch.me/PttsDev/count.svg" />
 </p>
 
